@@ -3,8 +3,8 @@
 **EightySeven Group** — Cеть сообществ и проектов. Мы реализуем желания игроков и создаём свои уникальные решения.
 
 ## Проекты
-- [EightySeven Mods](https://eightyseven.ru) - Приложение для автоустановки модификаций и сборок Minecraft в один клик.
-- [Катарсис](https://catharsis-mine.ru) - Minecraft сервер с уникальным виденьем режимов.
+- [EightySeven Mods](https://eightyseven.ru) — Приложение для автоустановки модификаций и сборок Minecraft в один клик.
+- [Катарсис](https://catharsis-mine.ru) — Minecraft сервер с уникальным виденьем режимов.
 
 # EN
 ## EightySeven Group
